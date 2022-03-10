@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCV7Eq7WLE3gz5lIlSLmnR1ZbvUmbcru+12eLvZ/erhq6L81gsbDpSM3sZkuHv4lNUu4Kf+VnqkHQLm6NVprdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2085553\\source\\repos\\Dockerapi\\Dockerapi\\Dockerapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2085553\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
